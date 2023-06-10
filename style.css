@@ -1,0 +1,265 @@
+body{
+    font-family: sans-serif;
+    background-image: url("Wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.search{
+    color: rgb(210, 210, 210);
+    width: 37%;
+    margin: auto;
+}
+
+#input{
+    padding: 23px;
+    width: 100%;
+    border-radius: 7px;
+    background-color: white;
+    border: none;
+}
+
+#input:focus{
+    outline: 0px;
+}
+
+.weather{
+    color: white;
+    padding: 15px;
+}
+
+.cards{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 150px;
+    margin: 14px;
+    padding: 40px 20px 40px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+#addcard{
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.card:nth-of-type(1) {
+    background-color: #2b568e;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.card:nth-of-type(2) {
+    background-color: rgb(32, 131, 50);
+    font-weight: 700;
+}
+
+.card:nth-of-type(3) {
+    background-color: rgb(32, 131, 50);
+    font-weight: 700;
+}
+
+.card:nth-of-type(4) {
+    background-color: rgb(82, 191, 100);
+
+    font-weight: 700;
+}
+
+
+.card:nth-of-type(5) {
+    background-color: white;
+    color: #2b568e;
+    font-weight: 700;
+}
+
+
+.card:nth-of-type(6) {
+    background-color: rgb(228, 137, 9);
+    font-weight: 700;
+}
+ 
+.card:nth-of-type(7) {
+    background-color: white;
+    color: #000000;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.card:nth-of-type(8) {
+    background-color: cornflowerblue;
+    font-weight: 700;
+}
+
+
+.card:nth-of-type(9) {
+    background-color: rgb(229, 42, 4);
+    color: #ffffff;
+}
+
+
+.card:nth-of-type(10) {
+    background-color: #003882;
+    font-weight: 900;
+}
+
+
+.card:nth-of-type(11) {
+    color: rgb(10, 167, 70);
+    font-weight: 700;
+}
+
+
+.card:nth-of-type(12) {
+    color: black;
+    font-weight: 900;
+}
+
+
+
+.card:nth-of-type(13) {
+    background-color: rgb(123, 7, 165);
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+
+
+.card:nth-of-type(14) {
+    background-color: #2b568e;
+    font-weight: 900;
+}
+
+
+
+.card:nth-of-type(15) {
+    background-color: rgb(199, 63, 13);
+    font-weight: 700;
+}
+
+
+.card:nth-of-type(16) {
+    font-size: xx-large;
+    background-color: rgba(112, 128, 144, 0.404);
+}
+/* #facebook{
+    background-color: #2b568e;
+    color: white;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+#instagram{
+    background-color: rgb(32, 131, 50);
+    color: white;
+    font-weight: 700;
+}
+
+#sketch{
+    background-color: rgb(32, 131, 50);
+    color: white;
+    font-weight: 700;
+}
+
+#oldmanstrength{
+    background-color: rgb(82, 191, 100);
+    color: white;
+    font-weight: 700;
+}
+
+#joinhoney{
+    background-color: white;
+    color: #2b568e;
+    font-weight: 700;
+}
+
+#grammerly{
+    background-color: rgb(228, 137, 9);
+    color: #ffffff;
+    font-weight: 700;
+}
+
+#github{
+    background-color: white;
+    color: #000000;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+#gmail{
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: 700;
+}
+
+#cssgradiant{
+    background-color: rgb(229, 42, 4);
+    color: #ffffff;
+}
+
+#coolmathgames{
+    background-color: #003882;
+    color: white;
+    font-weight: 900;
+}
+
+#amazon{
+    background-color: white;
+    color: rgb(10, 167, 70);
+    font-weight: 700;
+}
+
+#youtube{
+    background-color: white;
+    color: black;
+    font-weight: 900;
+}
+
+#fancycoloryt{
+    color: red;
+    font-weight: 900;
+}   (NOT IN USE)
+
+#twitch{
+    background-color: rgb(123, 7, 165);
+    color: white;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+#gamebites{
+    background-color: #2b568e;
+    color: white;
+    font-weight: 900;
+}
+
+#fortnitetracker{
+    background-color: rgb(199, 63, 13);
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+#addcard{
+    background-color: rgba(36, 36, 36, 0.651);
+    font-size: xx-large;
+}
+
+#othersites{
+    color: white;
+    background-color: slategrey;
+} */
