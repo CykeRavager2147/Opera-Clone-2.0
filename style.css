@@ -120,14 +120,16 @@ body{
 
 
 .card:nth-of-type(11) {
-    color: rgb(10, 167, 70);
+    color: rgb(0, 4, 2);
     font-weight: 700;
+    background-color: #ffffff;
 }
 
 
 .card:nth-of-type(12) {
     color: black;
     font-weight: 900;
+    background-color: #ffffff;
 }
 
 
